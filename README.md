@@ -1,14 +1,14 @@
-[![samp-launcher](https://img.shields.io/badge/SAMP-LAUNCHER-5C2D91.svg?style=for-the-badge)](https://github.com/Ramon-Sd/samp-launcher-base)
+[![samp-launcher](https://img.shields.io/badge/SAMP_|-LAUNCHER-5C2D91.svg?style=for-the-badge)](https://github.com/Ramon-Sd/samp-launcher-base)
 
-<br><br><br>
+<br><br>
 <p align="left">
   <a href="https://www.sa-mp.com/">
     <img src="https://www.sa-mp.com/images/logo.gif" width="300" alt="SAMP Logo">
   </a>
 </p>
 
-<br><br><br>
-### Info's :
+<br><br>
+# ――――――――――――――――
 
 <br>
 
