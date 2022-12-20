@@ -8,7 +8,7 @@
 </p>
 
 <br><br><br>
-### Project Info :
+### Info's :
 
 <br>
 
