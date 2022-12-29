@@ -3,7 +3,7 @@
 <br><br>
 <p align="left">
   <a href="https://www.sa-mp.com/">
-    <img src="https://www.sa-mp.com/images/logo.gif" width="600" alt="SAMP Logo">
+    <img src="https://www.sa-mp.com/images/logo.gif" width="500" alt="SAMP Logo">
   </a>
 </p>
 
